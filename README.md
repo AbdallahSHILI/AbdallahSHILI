@@ -6,7 +6,7 @@
 <br/>
 * 🌱 I’m currently learning <b>NextJs</b> <br/>
 * ⚡ Fun fact <b>I hate bugs</b><br/>
-<br/>
+<br/> 
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallahshili&show_icons=true&locale=en&layout=compact" alt="abdallahshili" /></p>
 

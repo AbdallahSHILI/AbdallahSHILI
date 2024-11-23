@@ -3,7 +3,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Abdallah Shili</h1>
 <h3 align="center">Passionate Full Stack Web Developer | React | Next.js | Node.js</h3>
 
-
 ---
 
 ### 🚀 About Me
@@ -62,6 +61,12 @@
 <p align="center">
     <a href="https://twitter.com/negansh9" target="_blank">
         <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://linkedin.com/in/abdallah-shili-4ab041220" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://gitlab.com/shiliabdallah1234" target="_blank">
+        <img src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
     </a>
 </p>
 

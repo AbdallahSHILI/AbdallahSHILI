@@ -10,7 +10,13 @@
 - 🔭 I'm currently working on **building modern web applications**
 - 🌱 I'm currently learning **Next.js** and exploring advanced React patterns
 - 💡 Fun fact: **I hate bugs** (who doesn't?) but I love solving them!
-- 👨‍💻 All of my projects are available at [My Portfolio Not ready Yet]
+- 👨‍💻 All of my projects are available at <a href="https://abdallahshiliportfolio.vercel.app/" target="_blank" style="
+    font-weight: bold;
+    color: #4CAF50;
+    text-decoration: none;
+    transition: color 0.3s ease;">
+    Abdallah Shili Portfolio
+  </a>
 - 📫 How to reach me: shiliabdallah1234@gmail.com
 
 ### 🛠️ Tech Stack
